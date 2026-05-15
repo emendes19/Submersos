@@ -83,6 +83,7 @@
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oCoral","path":"objects/oCoral/oCoral.yy",},},
     {"id":{"name":"oFim","path":"objects/oFim/oFim.yy",},},
+    {"id":{"name":"oFim2","path":"objects/oFim2/oFim2.yy",},},
     {"id":{"name":"oFloor","path":"objects/oFloor/oFloor.yy",},},
     {"id":{"name":"oGameController","path":"objects/oGameController/oGameController.yy",},},
     {"id":{"name":"oHud","path":"objects/oHud/oHud.yy",},},
@@ -186,8 +187,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rFase2","path":"rooms/rFase2/rFase2.yy",},},
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"roomId":{"name":"rFase2","path":"rooms/rFase2/rFase2.yy",},},
     {"roomId":{"name":"rFase1","path":"rooms/rFase1/rFase1.yy",},},
     {"roomId":{"name":"rFase3","path":"rooms/rFase3/rFase3.yy",},},
     {"roomId":{"name":"Debug","path":"rooms/Debug/Debug.yy",},},
