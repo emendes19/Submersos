@@ -4,9 +4,11 @@ var jogador = oScorpio;
 // --- Física e Nado ---
 hsp = 0;
 vsp = 0;
-spd_patrulha  = 1.8;
-spd_alerta    = 3.5;
-spd_investida = 7.0;
+
+// Velocidades balanceadas
+spd_patrulha  = 1.0;
+spd_alerta    = 2.0;
+spd_investida = 4.0;
 
 // --- Efeito de Nado (Senoide) ---
 tempo_nado      = 0;
@@ -36,7 +38,7 @@ investida_duracao = 60;
 
 // --- Cooldown pós-ataque ---
 cooldown_timer   = 0;
-cooldown_duracao = 90;
+cooldown_duracao = 140;
 
 // --- Direção de sprite ---
 dir_x = 1;
@@ -49,7 +51,7 @@ estado = 0;
 dist_patrulha = 140;
 x_origem      = x;
 
-// Fuga por ruído
+// --- Fuga por ruído ---
 fuga_timer    = 0;
-fuga_duracao  = 120; // 4 segundos fugindo — ajuste à vontade
-fuga_spd      = 5;   // velocidade de fuga
+fuga_duracao  = 120;
+fuga_spd      = 2.8;

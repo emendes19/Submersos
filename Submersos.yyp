@@ -77,7 +77,6 @@
   "name":"Submersos",
   "resources":[
     {"id":{"name":"oAreia","path":"objects/oAreia/oAreia.yy",},},
-    {"id":{"name":"oArraia","path":"objects/oArraia/oArraia.yy",},},
     {"id":{"name":"oBanana","path":"objects/oBanana/oBanana.yy",},},
     {"id":{"name":"oBateria","path":"objects/oBateria/oBateria.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
@@ -187,8 +186,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"rFase2","path":"rooms/rFase2/rFase2.yy",},},
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"rFase1","path":"rooms/rFase1/rFase1.yy",},},
     {"roomId":{"name":"rFase3","path":"rooms/rFase3/rFase3.yy",},},
     {"roomId":{"name":"Debug","path":"rooms/Debug/Debug.yy",},},
