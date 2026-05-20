@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"Sound3",
+  "%Name":"Sound5",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":281.91348,
+  "duration":0.0,
   "exportDir":"",
-  "name":"Sound3",
+  "name":"Sound5",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Sound3.mp3",
+  "soundFile":"",
   "volume":1.0,
 }

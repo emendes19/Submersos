@@ -356,11 +356,11 @@ energia = clamp(energia, 0, energia_max);
 // =======================
 // 🗑️ ITENS
 // =======================
-item = instance_place(x, y, oSacodeLixo);
+item = instance_place(x, y, sSacodeLixo);
 
 if (item != noone) {
 
-    if (!variable_global_exists("lixo_coletado")) {
+   item = collision_circle(x, y, 40, sSacodeLixo, false, true); {
         global.lixo_coletado = 0;
     }
 
