@@ -94,6 +94,7 @@
     {"id":{"name":"oRuidoPulso","path":"objects/oRuidoPulso/oRuidoPulso.yy",},},
     {"id":{"name":"oSacodeLixo","path":"objects/oSacodeLixo/oSacodeLixo.yy",},},
     {"id":{"name":"oSair","path":"objects/oSair/oSair.yy",},},
+    {"id":{"name":"oScorpio_Nadando","path":"objects/oScorpio_Nadando/oScorpio_Nadando.yy",},},
     {"id":{"name":"oScorpio","path":"objects/oScorpio/oScorpio.yy",},},
     {"id":{"name":"oSensor","path":"objects/oSensor/oSensor.yy",},},
     {"id":{"name":"oSentinela","path":"objects/oSentinela/oSentinela.yy",},},
@@ -186,9 +187,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rFase2","path":"rooms/rFase2/rFase2.yy",},},
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"rFase1","path":"rooms/rFase1/rFase1.yy",},},
+    {"roomId":{"name":"rFase2","path":"rooms/rFase2/rFase2.yy",},},
     {"roomId":{"name":"rFase3","path":"rooms/rFase3/rFase3.yy",},},
     {"roomId":{"name":"Debug","path":"rooms/Debug/Debug.yy",},},
   ],
