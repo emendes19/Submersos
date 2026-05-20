@@ -186,10 +186,10 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rFase3","path":"rooms/rFase3/rFase3.yy",},},
     {"roomId":{"name":"rFase2","path":"rooms/rFase2/rFase2.yy",},},
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"rFase1","path":"rooms/rFase1/rFase1.yy",},},
+    {"roomId":{"name":"rFase3","path":"rooms/rFase3/rFase3.yy",},},
     {"roomId":{"name":"Debug","path":"rooms/Debug/Debug.yy",},},
   ],
   "templateType":"game",
